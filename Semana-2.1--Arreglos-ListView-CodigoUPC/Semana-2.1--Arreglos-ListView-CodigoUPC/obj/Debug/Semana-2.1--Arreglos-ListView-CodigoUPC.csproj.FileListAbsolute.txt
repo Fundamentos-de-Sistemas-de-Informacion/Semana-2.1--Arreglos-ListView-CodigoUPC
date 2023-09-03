@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\bin\Debug\Semana-2.1--Arreglos-ListView-CodigoUPC.exe.config
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\bin\Debug\Semana-2.1--Arreglos-ListView-CodigoUPC.exe
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\bin\Debug\Semana-2.1--Arreglos-ListView-CodigoUPC.pdb
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\obj\Debug\Semana-2.1--Arreglos-ListView-CodigoUPC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\obj\Debug\Semana_2._1__Arreglos_ListView_CodigoUPC.Form1.resources
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\obj\Debug\Semana_2._1__Arreglos_ListView_CodigoUPC.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\obj\Debug\Semana-2.1--Arreglos-ListView-CodigoUPC.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\obj\Debug\Semana-2.1--Arreglos-ListView-CodigoUPC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\obj\Debug\Semana-2.1--Arreglos-ListView-CodigoUPC.exe
+C:\Users\Usuario\Documents\GitHub\Semana-2.1--Arreglos-ListView-CodigoUPC\Semana-2.1--Arreglos-ListView-CodigoUPC\obj\Debug\Semana-2.1--Arreglos-ListView-CodigoUPC.pdb
